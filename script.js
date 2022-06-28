@@ -1,5 +1,5 @@
 var e = document.getElementsByClassName("project-category")[1]
-e.innerHTML = "hacker"
+e.innerHTML = "gaming"
 
 var e = document.getElementsByClassName("project-category")[2]
 e.innerHTML = "best robot"
